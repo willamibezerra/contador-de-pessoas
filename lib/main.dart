@@ -13,7 +13,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   int _people = 0;
-  String _infoText = "pode entrar";
+  String _infoText = "entre";
 
 
 
