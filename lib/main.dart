@@ -26,7 +26,7 @@ _infoText= "algo de errado não esta certo";
       } else if (_people<=10){
         _infoText= "pode entrar";
       } else{
-        _infoText= "lotado";
+        _infoText= "cheio";
       }
     });
   }
